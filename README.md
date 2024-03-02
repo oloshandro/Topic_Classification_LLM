@@ -15,7 +15,7 @@ pip install -r requirements.txt
 To test the classification system on your own examples, remember to add a .env file with your 'OPENAI_API_KEY' or replace 'OPENAI_API_KEY' in `classification.py` with your key.
 
 Then run:
-`python classification.py`and enter your review in your browser window.
+`run streamlit classification.py` to open the app in your browser window and enter your review .
 
 ### Project status
 The project is completed.
